@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "907107330852",
+    "firebase_url": "https://yanivtemp-f113e-default-rtdb.firebaseio.com",
+    "project_id": "yanivtemp-f113e",
+    "storage_bucket": "yanivtemp-f113e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907107330852:android:ab7f85ecc4bf3310d821b1",
+        "android_client_info": {
+          "package_name": "com.example.mancala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPr14jHbVyX2mYl61CQzPEZG9KG1ThUNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907107330852:android:1af7ddf1f11cbbcfd821b1",
+        "android_client_info": {
+          "package_name": "com.example.savearraylisttofb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPr14jHbVyX2mYl61CQzPEZG9KG1ThUNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
