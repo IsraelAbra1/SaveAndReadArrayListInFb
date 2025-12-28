@@ -12,6 +12,7 @@ public class Board {
     private Card openCard;
     private Context context;
     public static String activePlayer;
+    // temp
 
     public Board(Context context, String activePlayer) {
         this.context = context;
